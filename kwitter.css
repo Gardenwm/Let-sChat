@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+}
+
+.div1dc{
+    background: linear-gradient(#fcf3e4 0%, #fea698 100%);
+    padding-left:5%;
+    padding-top:10%;
+    float:left;
+    width:60%;
+    height:100%;
+}
+
+.div2if{
+    padding-top:17.5%;
+    float:right;
+    width:35%;
+}
+
+h1{
+    font-family: 'Amatic SC', cursive;
+    font-size:900%;
+    color: white;
+}
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size:700%;
+}
+
+#user_name{
+    width:35%;
+    border-radius:5%;
+    height:5%;
+    font-family: 'Noto Sans Mono', monospace;
+}
+
+#login_button{
+    font-family: 'Noto Sans Mono', monospace;
+    height:3%;
+    background: #fea698;
+    border-radius: 10%;
+    color:whitesmoke;
+    font-weight: 400;
+}
