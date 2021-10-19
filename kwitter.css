@@ -37,10 +37,9 @@ h2{
 
 #login_button{
     font-family: 'Noto Sans Mono', monospace;
-    height:3%;
+    height:5%;
     background: #fea698;
     border-radius: 10%;
     color:whitesmoke;
     font-weight: 400;
-    text-align:top;
 }
